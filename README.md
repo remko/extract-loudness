@@ -1,4 +1,4 @@
-# [ExtractLoudness: Extract loudness information](http://el-tramo.be/extract-loudness)
+# [ExtractLoudness: Extract loudness information](https://el-tramo.be/extract-loudness)
 
 ## About
 
